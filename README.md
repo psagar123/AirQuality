@@ -41,14 +41,6 @@ Created different Regression models to predict patient’s emergency department 
 * Extremely Random Trees
 * Boosting- AdaBoostRegressor
 
-
-## Comparing real and predicted value using sample test set
-## Cancer Model
-![Images/landingResize.png](Images/comp1.png)
-
-## Asthma Model
-![Images/landingResize.png](Images/comp2.png)
-
 ## Production
 Used Flask templating to create a website to predict risk of lung cancer and asthma emergency department visits using air quality data. The saved model was used for the prediction.
 
