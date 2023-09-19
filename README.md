@@ -1,5 +1,4 @@
 # Respiratory Healthcare Tool
-The website is deployed to Heroku at: https://respiratory-healthcare-tool.herokuapp.com/
 
 In this project, we built a machine learning model to predicts a patient's risk of lung cancer and asthma emergency department visits using air quality data.
 
