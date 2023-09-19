@@ -41,13 +41,6 @@ Created different Regression models to predict patient’s emergency department 
 * Extremely Random Trees
 * Boosting- AdaBoostRegressor
 
-## Tuning hyperparameters for all model
-* Grid Search CV
-* Randomized Search CV
-
-## Trying to improve score by selecting important features 
-Using SelectFromModel to fit the Decision Tree model and get the important features only to fit all the model described above.
-
 
 ## Comparing real and predicted value using sample test set
 ## Cancer Model
@@ -64,8 +57,4 @@ Healthcare tool is designed to assess a patient’s respiratory health based on 
 The “Model Prediction for Cancer” model is used to predict a patient's risk of developing lung cancer (Low, Medium, High). 
 
 The “Model Prediction for Asthma” model is used to predict the patient’s emergency department visit rate for severe asthma attacks. 
-
-The website is deployed to Heroku at: https://respiratory-healthcare-tool.herokuapp.com/
-
-![Images6.png](Images/heroku.png)
 
